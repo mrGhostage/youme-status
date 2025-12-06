@@ -1,7 +1,7 @@
 url: https://test.api2.youme.gg/healthz
 status: down
-code: 502
-responseTime: 660
-lastUpdated: 2025-12-06T13:33:09.567Z
+code: 0
+responseTime: 0
+lastUpdated: 2025-12-06T23:20:57.232Z
 startTime: 2025-12-06T07:50:39.456Z
 generator: Upptime <https://github.com/upptime/upptime>
