@@ -4,8 +4,8 @@ repo: youme-status # имя репозитория со статусом
 
 # Список сайтов, которые мониторим
 sites:
-  - name: Youme Front (prod)
-    url: https://youme.gg
+  #- name: Youme Front (prod)
+  #  url: https://youme.gg
 
   - name: Youme API (prod)
     url: https://api2.youme.gg/healthz
