@@ -1,23 +1,5 @@
 [
   {
-    "name": "Youme Front (prod)",
-    "url": "https://youme.gg",
-    "icon": "https://icons.duckduckgo.com/ip3/youme.gg.ico",
-    "slug": "youme-front-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1534,
-    "timeDay": 1534,
-    "timeWeek": 1534,
-    "timeMonth": 1534,
-    "timeYear": 1534,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Youme API (prod)",
     "url": "https://api2.youme.gg/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api2.youme.gg.ico",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1065,
-    "timeDay": 1065,
-    "timeWeek": 1065,
-    "timeMonth": 1065,
-    "timeYear": 1065,
+    "time": 1084,
+    "timeDay": 1084,
+    "timeWeek": 1084,
+    "timeMonth": 1084,
+    "timeYear": 1084,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1261,
-    "timeDay": 1261,
-    "timeWeek": 1261,
-    "timeMonth": 1261,
-    "timeYear": 1261,
+    "time": 1188,
+    "timeDay": 1188,
+    "timeWeek": 1188,
+    "timeMonth": 1188,
+    "timeYear": 1188,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 776,
-    "timeWeek": 776,
-    "timeMonth": 776,
-    "timeYear": 776,
+    "time": 802,
+    "timeDay": 802,
+    "timeWeek": 802,
+    "timeMonth": 802,
+    "timeYear": 802,
     "dailyMinutesDown": {}
   }
 ]
