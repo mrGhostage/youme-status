@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.api2.youme.gg.ico",
     "slug": "youme-api-test",
     "status": "up",
-    "uptime": "0.66%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "0.66%",
-    "uptimeMonth": "0.66%",
-    "uptimeYear": "0.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 776,
     "timeDay": 776,
     "timeWeek": 776,
     "timeMonth": 776,
     "timeYear": 776,
-    "dailyMinutesDown": {
-      "2025-12-06": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
