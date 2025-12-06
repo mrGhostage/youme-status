@@ -14,7 +14,7 @@ sites:
     url: https://test.youme.gg
 
   - name: Youme API (test)
-    url: https://test-api2.youme.gg/healthz
+    url: https://test.api2.youme.gg/healthz
 
 # Кому назначать инциденты в Issues (опционально)
 assignees:
