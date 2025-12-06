@@ -5,24 +5,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2.youme.gg.ico",
     "slug": "youme-api-prod",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "84.22%",
+    "uptimeDay": "84.22%",
+    "uptimeWeek": "84.22%",
+    "uptimeMonth": "84.22%",
+    "uptimeYear": "84.22%",
     "time": 972,
     "timeDay": 972,
     "timeWeek": 972,
     "timeMonth": 972,
     "timeYear": 972,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-06": 64
+    }
   },
   {
     "name": "Youme Front (test)",
     "url": "https://test.youme.gg",
     "icon": "https://icons.duckduckgo.com/ip3/test.youme.gg.ico",
     "slug": "youme-front-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.api2.youme.gg.ico",
     "slug": "youme-api-test",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "84.23%",
+    "uptimeDay": "84.23%",
+    "uptimeWeek": "84.23%",
+    "uptimeMonth": "84.23%",
+    "uptimeYear": "84.23%",
     "time": 755,
     "timeDay": 755,
     "timeWeek": 755,
     "timeMonth": 755,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2025-12-06": 0
+      "2025-12-06": 64
     }
   }
 ]
