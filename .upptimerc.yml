@@ -8,13 +8,13 @@ sites:
     url: https://youme.gg
 
   - name: Youme API (prod)
-    url: https://api2.youme.gg/healthz
+    url: https://api.youme.gg/health
 
   - name: Youme Front (test)
     url: https://test.youme.gg
 
   - name: Youme API (test)
-    url: https://test.api2.youme.gg/healthz
+    url: https://test.api.youme.gg/health
 
 # Кому назначать инциденты в Issues (опционально)
 assignees:
