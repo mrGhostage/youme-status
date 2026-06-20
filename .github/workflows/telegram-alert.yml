@@ -1,0 +1,26 @@
+name: Telegram Alert
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  telegram:
+    if: contains(github.event.issue.title, 'is down')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send Telegram message
+        env:
+          BOT_TOKEN: ${{ secrets.NOTIFICATION_TELEGRAM_BOT_KEY }}
+          CHAT_ID: ${{ secrets.NOTIFICATION_TELEGRAM_CHAT_ID }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -d chat_id="${CHAT_ID}" \
+            --data-urlencode text="🚨 Youme.gg alert
+
+          ${ISSUE_TITLE}
+
+          ${ISSUE_URL}"
